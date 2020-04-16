@@ -1,5 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/mukeshmithrakumar/papyri-docs/master/images/cover.png"/></p>
 
+You can try the app at: [Papyri](http://papyri-env.eba-wt3pefpv.us-east-2.elasticbeanstalk.com/)
+
+If you like the app, show your support by voting at: https://devpost.com/software/papyri-g2jn3z
 
 <h2>Inspiration</h2>
 
@@ -59,16 +62,6 @@ Other than that, it was pretty easy working with AWS, I could have finished the 
 For a detailed discussion, take a look at the [Blog](https://github.com/mukeshmithrakumar/papyri-docs/blob/master/docs/BLOG.md)
 
 
-<h2>Accomplishments that I'm proud of</h2>
-
-
-I would have been happy about finishing the app if I had completed the ChatBot on time ;).
-
-I did a small alpha test with some of my friends and colleagues and they seem to like the app and find it useful and they also gave me some recommendations so I am happy they find it useful.
-
-I think I would be little bit proud when I get the app to market, when I have my first paid user. For now, I think winning the competition would be a good start, will help me with AWS credits and the money I need to take this to market.
-
-
 <h2>What I learned</h2>
 
 
@@ -81,8 +74,6 @@ While going through other AWS architectures, I learned that designing AWS archit
 
 
 - I have to improve the summarizer. I am planning to talk with Mphasis about using custom models and retraining on my dataset. The text cleaner can definitely be better and that would increase model performance as well so may be using AWS Textractor to extract data and a better cleaner.
-
-- Get the website domain name registered.
 
 - Do another alpha test with a larger sample size and get user feedback.
 
